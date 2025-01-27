@@ -1,1 +1,2 @@
-new egit file 
+new egit file
+ Add line using EGit
